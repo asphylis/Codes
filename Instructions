@@ -1,6 +1,1 @@
-I use command prompt to execute codes
 
-You should have python installed on your workstation for the code to execute
-
-To execute the code you must run command prompt for the same directory in which you have your file stored in
-Type command "python<space>Filename.py" to run the code
